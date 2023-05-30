@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .box {
+    flex: 1;
+    height: 100px; /* Adjust the height as needed */
+    background-color: lightgray; /* Adjust the background color as needed */
+    margin-top: 40;
+  }
+  
